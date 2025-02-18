@@ -34,5 +34,6 @@ This project explores superhero eye color distribution using Pandas for data cle
 - Matplotlib for visualization.
 
   **Visualization**
+  
   ![Superhero Eyes Colours](![image](https://github.com/user-attachments/assets/0e3eea4b-8b16-4cd0-b450-b456efef11fc)
 
